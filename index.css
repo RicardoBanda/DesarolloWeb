@@ -1,3 +1,20 @@
-*{
-    background-color: brown;
+h1,p{
+    border: 1px solid gray;
+    padding: 5px;
+    height: 100px;
+    width: 50%;
+}
+
+h2{
+    border: 1px solid gray;
+    height: 100px;
+    padding: 5px;
+    width: 50%;
+}
+span{
+    display: inline-block;
+    border: 2px solid rebeccapurple;
+    padding: 5px;
+    height: 90px;
+    width: 50%;
 }
